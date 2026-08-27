@@ -1,5 +1,5 @@
 # Data Jobs Dashboard with Power BI
-![Dashboard Screenshot](Images/dashboard.png)
+![Dashboard Screenshot](https://github.com/Sujith-18/Power-BI-Dashboard-Project-2/blob/master/Images/Dashboard%20Image.png)
 
 ## Introduction
 
