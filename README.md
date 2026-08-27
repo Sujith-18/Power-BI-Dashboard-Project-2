@@ -1,4 +1,5 @@
 # Data Jobs Dashboard with Power BI
+![Dashboard Screenshot](Images/dashboard.png)
 
 ## Introduction
 
